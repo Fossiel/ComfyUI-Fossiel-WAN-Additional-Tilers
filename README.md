@@ -37,8 +37,7 @@ This is a suite of nodes which was inspired by [ComfyUI--WanImageToVideoTiled](h
 ---
 
 ## Credits  
-[comfyanonymous](https://github.com/comfyanonymous), [comfyanonymous](https://github.com/comfyanonymous), [stduhpf](https://github.com/stduhpf), [princepainter](https://github.com/princepainter)
-Developed with help from Grok3  
-Model developers for supplying fantastic open source models, free of charge.  
-
+- [comfyanonymous](https://github.com/comfyanonymous), [comfyanonymous](https://github.com/comfyanonymous), [stduhpf](https://github.com/stduhpf), [princepainter](https://github.com/princepainter)  
+- Model developers for supplying fantastic open source models, free of charge.  
+- Developed with help from Grok3  
 
